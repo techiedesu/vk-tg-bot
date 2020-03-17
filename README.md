@@ -46,13 +46,6 @@ git clone https://github.com/seniv/vk-tg-bot.git
 cd vk-tg-bot
 ```
 
-Загрузите модули:
-
-```bash
-yarn
-```
-
-Почти готово!
 Далее откройте файл **config.json**, и измените 3 строчки конфигурации:
 
 ```cfg
